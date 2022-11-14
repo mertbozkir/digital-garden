@@ -1,0 +1,29 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/notes/about",
+          "text": "Mert Bozkir"
+        }
+      ]
+    },
+    "backlinks": {
+      "/notes/about": [
+        {
+          "source": "/",
+          "target": "/notes/about",
+          "text": "Mert Bozkir"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/",
+      "target": "/notes/about",
+      "text": "Mert Bozkir"
+    }
+  ]
+}

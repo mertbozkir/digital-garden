@@ -1,0 +1,26 @@
+
+
+<hr/>
+
+{{if $.Site.Data.config.enableFooter}}
+{{partial "comments.html" .}}
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/mertbozkir/digital-garden"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+    </script>
+<div class="page-end" id="footer">
+    <div class="backlinks-container">
+        {{partial "backlinks.html" .}}
+    </div>
+    <div>
+        {{partial "graph.html" .}}
+        
+    </div>
+</div>
+
+{{end}}
+
+{{partial "contact.html" .}}
