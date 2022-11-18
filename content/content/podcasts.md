@@ -1,5 +1,7 @@
 ---
 enableFooter: true
+title: "Podcasts"
+
 ---
 
 You can find all podcast-notes here
