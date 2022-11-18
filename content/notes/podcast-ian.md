@@ -1,6 +1,8 @@
 ---
 title: "Ian's podcast about League MLOps"
 enableFooter: true
+enableToC: false
+
 ---
 * They are using some recsys for riot games (e.g collaborative filtering)
 
