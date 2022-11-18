@@ -4,87 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ba38fa86cd58d3",
+        "id": "7e377398a0f84d3b",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab51617ba251358",
+            "id": "e440cdedbaa990e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93b2d360d4670f63",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "676f522c531f915a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc8d0f616d976a3b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b766c62b151f7a33",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7005553133a1c0c6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "70c4320763495580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/about.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "615da7c59e21b1e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
+                "file": "notes/podcast-ian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "notes/podcast-ian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "notes/podcast-ian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "notes/podcast-ian.md"
               }
             }
           }
@@ -201,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "615da7c59e21b1e9",
+  "active": "e440cdedbaa990e8",
   "lastOpenFiles": [
-    "notes/about.md",
+    "notes/league.md",
+    "notes/particle.md",
+    "notes/podcast-ian.md",
     "_index.md",
-    "notes/images/obsidian-settings.png",
-    "notes/images/google-domains.png",
-    "notes/images/github-pages.png",
-    "notes/images/github-actions.png",
-    "notes/updating.md",
-    "notes/setup.md",
-    "notes/config.md",
-    "notes/mert-bozkir/about3.md"
+    "content/math.md",
+    "content/about.md",
+    "content/podcasts.md",
+    "content/side-projects.md",
+    "templates/project.md",
+    "templates/substack-newsletter.md"
   ]
 }

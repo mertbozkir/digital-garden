@@ -1,12 +1,12 @@
 ---
 title: Mert Bozkir's Digital Garden  
-enableToc: false
+enableToc: true
 enableFooter: true
 ---
 
 Hello everybody!
 
-I'm [Mert Bozkir](notes/about)! 👋
+I'm [Mert Bozkir](content/about.md)! 👋
 
 This is my constantly-updating, virtual digital garden. 🌱 This digital garden is a alive, natural, and still needs more time to become a full-grown. 
 
@@ -23,5 +23,19 @@ At Turkey, I'm pursuing a degree in computer engineering. I developed my learnin
 #### How to navigate this site
 
 Feel free to click around and explore. I recommend kind suggestions and critiques on anything here and open to new forms of thought and recommendations that you might have in this process.
+
+You can see my side projects [here](/content/side-projects)
+
+## Self-improvement
+
+## Self-learning
+* [podcast notes](content/podcasts)
+* [Math Journey](/content/math)
+
+## Self-acceptance
+
+## Data Science - MLOps
+* [side-projects](/content/side-projects)
+
 
 
