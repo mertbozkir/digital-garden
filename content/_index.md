@@ -36,6 +36,7 @@ You can see my side projects [here](/content/side-projects)
 
 ## Data Science - MLOps
 * [side-projects](/content/side-projects)
+* [mlops-resources](/notes/mlops-resources)
 
 
 

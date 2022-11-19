@@ -28,17 +28,13 @@ Join thousands of learners from [UC Berkeley](https://bit.ly/berkeleyfsdl), [U
 
 [Join a synchronous cohort](https://fullstackdeeplearning.com/course/) to participate in lectures, code interactive labs, and create your own ML-powered application as a final project, or just [follow along](https://fullstackdeeplearning.com/course/2022) on your own time for free.
 
-	### Reliable Machine Learning book:
-	
-	How to run an efficient and reliable machine learning (ML) system. This book shows data scientists, software and site reliability engineers, product managers, and business owners how to run ML effectively and accountably. Read on to learn how to perform day-to-day ML tasks while keeping the bigger picture in mind.
-	
-	[Link](https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
+### Reliable Machine Learning book:
+
+How to run an efficient and reliable machine learning (ML) system. This book shows data scientists, software and site reliability engineers, product managers, and business owners how to run ML effectively and accountably. Read on to learn how to perform day-to-day ML tasks while keeping the bigger picture in mind. [Link](https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
 
 ### Practical MLOps book: 
 
-Machine Learning Operations (MLOps) is the process of getting your machine learning models into production. This guide explains what MLOps is and how it differs from DevOps. It also gives you a foundation in data science and Python to build a foundation for ML tools and methods.
-
-[Link](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
+Machine Learning Operations (MLOps) is the process of getting your machine learning models into production. This guide explains what MLOps is and how it differs from DevOps. It also gives you a foundation in data science and Python to build a foundation for ML tools and methods. [Link](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 ### Made with ML - Goku Mohandas:
 

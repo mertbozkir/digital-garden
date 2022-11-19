@@ -11,11 +11,28 @@
             "id": "e440cdedbaa990e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/private-note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3beae6e191a4c571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/mlops-resources.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/mlops-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/mlops-resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/mlops-resources.md"
+              }
             }
           }
         ]
@@ -128,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e282a3862321f87",
+  "active": "3beae6e191a4c571",
   "lastOpenFiles": [
+    "_index.md",
+    "notes/mlops-resources.md",
+    "notes/misc.md",
+    "private/private-note.md",
+    "notes/league.md",
     "notes/particle.md",
     "content/side-projects.md",
     "content/podcasts.md",
     "content/math.md",
-    "content/about.md",
-    "notes/podcast-ian.md",
-    "notes/league.md",
-    "_index.md",
-    "templates/project.md",
-    "templates/substack-newsletter.md"
+    "content/about.md"
   ]
 }
