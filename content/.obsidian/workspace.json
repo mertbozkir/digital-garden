@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/particle.md",
+                "file": "private/private-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/particle.md",
+                "file": "private/private-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/particle.md",
+                "file": "private/private-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/particle.md"
+                "file": "private/private-note.md"
               }
             }
           }
@@ -138,13 +138,13 @@
   },
   "active": "e440cdedbaa990e8",
   "lastOpenFiles": [
+    "notes/particle.md",
     "content/side-projects.md",
     "content/podcasts.md",
     "content/math.md",
     "content/about.md",
     "notes/podcast-ian.md",
     "notes/league.md",
-    "notes/particle.md",
     "_index.md",
     "templates/project.md",
     "templates/substack-newsletter.md"
